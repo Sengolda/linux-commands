@@ -23,7 +23,7 @@ Basic Linux Commands
 :curl: Command-line utility to transfer data from or to a server.
 :wget: Almost the same as `curl` but a bit diffrent, **NOTE:** This command sometimes isn't avaliable in Unix systems.
 :clear: Clear the console.
-:mkdir: Create a direcotry/folder.
+:mkdir: Create a directory/folder.
 :touch: Creates an empty file.
 :which: Path to file.
 :find: Searches for files in a directory hierarchy.
@@ -34,7 +34,7 @@ Basic Linux Commands
 :nano: A terminal based text editor.
 :vim: A terminal based text editor like nano but much diffrent.
 :cp: Copy files or directories.
-:mv: Similar to `cp` command but it removes it from the diretory you moved it from.
+:mv: Similar to `cp` command but it removes it from the directory you moved it from.
 :where: An aliases of `which` command.
 :rm: Remove a file, use the `-r` flag when removing directories/folders.
 :ps: List the current processes.
