@@ -37,3 +37,5 @@ Basic Linux Commands
 :mv: Similar to `cp` command but it removes it from the diretory you moved it from.
 :where: An aliases of `which` command.
 :rm: Remove a file, use the `-r` flag when removing directories/folders.
+:ps: List the current processes.
+
